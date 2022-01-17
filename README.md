@@ -1,3 +1,4 @@
+# http://flepeint.ccfaculty.org/java142/hw3.html
 # Homework 3
 In this assignment, you practice using methods and doing arithmetic in java.
 
